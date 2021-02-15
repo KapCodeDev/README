@@ -90,7 +90,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 
 Any resemblance between this page and the [awesome list of statistical software packages](https://github.com/SNStatComp/awesome-official-statistics-software) is certainly not coincidental. 
 
-### Disclaimer
+### Disclaimerpkpko
 
 This repository contains open resources developed in-house and with partners.
 
